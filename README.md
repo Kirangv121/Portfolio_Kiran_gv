@@ -1,6 +1,6 @@
 ## Kiran G V - Portfolio Website
 
-## Deployed Link : https://kirangv121dev.vercel.app/
+## Deployed Link : https://kirangv121.vercel.app/
 
 A modern, responsive portfolio website built with Next.js, showcasing full-stack development skills, AI/ML projects, and IoT solutions.
 
